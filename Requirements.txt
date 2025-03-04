@@ -1,5 +1,6 @@
-pandas 
+streamlit
+pandas
 matplotlib
-networkx 
-seaborn 
-numpy
+networkx
+seaborn
+
