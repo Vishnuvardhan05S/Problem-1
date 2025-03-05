@@ -3,4 +3,5 @@ pandas
 matplotlib
 networkx
 seaborn
-
+xlrd
+openpyxl
