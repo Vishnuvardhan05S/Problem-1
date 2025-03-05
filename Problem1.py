@@ -4,7 +4,7 @@ import networkx as nx
 import seaborn as sns
 
 # Load flight data (Replace 'flights_data.csv' with the actual dataset)
-df = pd.read_csv("flights_data.csv")
+df = pd.read_csv("/content/Sample_JFK_Flight_Data.csv")
 
 # Inspect dataset structure
 print(df.head())
